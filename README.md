@@ -37,5 +37,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0b66c2%20)](https://www.linkedin.com/in/nikolay-knyazev-55a4584a)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CytoClown&show_icons=true)
-
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/25448388-2564d398-7bb2-4813-b299-4c40539b2286?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D25448388-2564d398-7bb2-4813-b299-4c40539b2286%26entityType%3Dcollection%26workspaceId%3Dccc589ec-e832-4719-9352-e7d5df59510a)
