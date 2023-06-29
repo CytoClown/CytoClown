@@ -27,4 +27,4 @@ About me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0b66c2%20)](https://www.linkedin.com/in/nikolay-knyazev-55a4584a)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cytoclown&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cytoclown&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
