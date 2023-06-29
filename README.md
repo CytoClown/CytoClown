@@ -1,5 +1,8 @@
 ![Header](https://github.com/CytoClown/CytoClown/blob/main/assets/Header.png)
 
+## My CV
+- [Link to my CV]()
+
 ## Skills
 ![Sql](https://img.shields.io/badge/Sql-090909?style=for-the-badge&logo=Sql&logoColor=0b66c2%20)
 ![Bash](https://img.shields.io/badge/Bash-090909?style=for-the-badge&logo=Bash&logoColor=0b66c2%20)
