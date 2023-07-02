@@ -23,15 +23,20 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-090909?style=for-the-badge&logo=Android%20Studio&logoColor=31648c%20)
 ![Jmeter](https://img.shields.io/badge/Jmeter-090909?style=for-the-badge&logo=Jmeter&logoColor=31648c%20)
 ![Charles](https://img.shields.io/badge/Charles-090909?style=for-the-badge&logo=Charles&logoColor=31648c%20)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-090909?style=for-the-badge&logo=virtualbox&logoColor=%230b66c2%20)
 
 ## Testing Documentation
 
 - [Checklists]()
-- [Test-Suites and Test-Cases]()
+- [Test-Cases and MindMaps]()
 - [Bug-Reports]()
 - [SQL Queries]()
 - [Postman Collections]()
+- [VirtualBox Ubuntu server]()
 
 ## Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=31648c%20)](https://t.me//knyaz335)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0b66c2%20)](https://www.linkedin.com/in/nikolay-knyazev-55a4584a)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CytoClown&show_icons=true)
