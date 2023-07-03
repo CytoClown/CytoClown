@@ -1,7 +1,7 @@
 ![Header](https://github.com/CytoClown/CytoClown/blob/main/assets/Header.png)
 
 ## My CV
-- [Link to my CV]()
+- [Link to my CV](https://drive.google.com/file/d/185Vs0WbJF3mPa-Fo0vC-Dx_hvbLEU-0a/view?usp=sharing)
 
 ## Skills
 ![Sql](https://img.shields.io/badge/Sql-090909?style=for-the-badge&logo=Sql&logoColor=0b66c2%20)
@@ -32,8 +32,8 @@
 - [Bug-Reports]()
 - [SQL Queries]()
 - [Postman Collections](https://github.com/CytoClown/PostC)
-- [Mobile testing]()
-- [VirtualBox Ubuntu server, TeamCity]()
+- [Android testing]()
+- [VirtualBox Ubuntu server, TeamCity](https://github.com/CytoClown/UbServTeam/tree/main)
 
 ## Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=31648c%20)](https://t.me//knyaz335)
