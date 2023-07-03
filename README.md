@@ -24,13 +24,14 @@
 ![Jmeter](https://img.shields.io/badge/Jmeter-090909?style=for-the-badge&logo=Jmeter&logoColor=31648c%20)
 ![Charles](https://img.shields.io/badge/Charles-090909?style=for-the-badge&logo=Charles&logoColor=31648c%20)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-090909?style=for-the-badge&logo=virtualbox&logoColor=%230b66c2%20)
+![Miro](https://img.shields.io/badge/Miro-090909?style=for-the-badge&logo=miro&logoColor=%23fabc32)
 
 ## Testing Documentation
 
-- [Checklists]()
-- [Test-Cases and MindMaps]()
+- [Checklists and Test-Cases]()
+- [MindMaps](https://github.com/CytoClown/MM)
 - [Bug-Reports]()
-- [SQL Queries]()
+- [SQL Queries](https://github.com/CytoClown/SQLquery)
 - [Postman Collections](https://github.com/CytoClown/PostC)
 - [Android testing]()
 - [VirtualBox Ubuntu server, TeamCity](https://github.com/CytoClown/UbServTeam/tree/main)
