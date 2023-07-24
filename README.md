@@ -33,11 +33,11 @@
 - [Bug-Reports]()
 - [SQL Queries](https://github.com/CytoClown/SQLquery)
 - [Postman Collections](https://github.com/CytoClown/PostC)
-- [Android testing]()
+- [Android testing](https://github.com/CytoClown/Mobile)
 - [VirtualBox Ubuntu server, TeamCity](https://github.com/CytoClown/UbServTeam/tree/main)
 
 ## Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=31648c%20)](https://t.me//knyaz335)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0b66c2%20)](https://www.linkedin.com/in/nikolay-knyazev-55a4584a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0b66c2%20)](https://www.linkedin.com/in/knyaz335/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CytoClown&show_icons=true&theme=radical)
