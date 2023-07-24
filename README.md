@@ -1,7 +1,7 @@
 ![Header](https://github.com/CytoClown/CytoClown/blob/main/assets/Header.png)
 
 ## My CV
-- [Link to my CV](https://drive.google.com/file/d/185Vs0WbJF3mPa-Fo0vC-Dx_hvbLEU-0a/view?usp=sharing)
+- [Link to my CV](https://drive.google.com/file/d/1rOY-3wXnP2ZHiOv0MiNJrFxtNQtmnnnY/view?usp=sharing)
 
 ## Skills
 ![Sql](https://img.shields.io/badge/Sql-090909?style=for-the-badge&logo=Sql&logoColor=0b66c2%20)
