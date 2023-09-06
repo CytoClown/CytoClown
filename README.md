@@ -28,16 +28,16 @@
 
 ## Testing Documentation
 
-- [Checklists and Test-Cases]()
+- [Checklists and Test-Cases](https://github.com/CytoClown/ChList-TK)
 - [MindMaps](https://github.com/CytoClown/MM)
-- [Bug-Reports]()
+- [Bug-Reports](https://github.com/CytoClown/BReports)
 - [SQL Queries](https://github.com/CytoClown/SQLquery)
 - [Postman Collections](https://github.com/CytoClown/PostC)
 - [Android testing](https://github.com/CytoClown/Mobile)
 - [VirtualBox Ubuntu server, TeamCity](https://github.com/CytoClown/UbServTeam/tree/main)
 
-## Contacts
+<!-- ## Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=31648c%20)](https://t.me//knyaz335)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0b66c2%20)](https://www.linkedin.com/in/knyaz335/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0b66c2%20)](https://www.linkedin.com/in/knyaz335/) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cytoclown&show_icons=true)
