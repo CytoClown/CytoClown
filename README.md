@@ -42,6 +42,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=31648c%20)](https://t.me//knyaz335)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0b66c2%20)](https://www.linkedin.com/in/knyaz335/) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cytoclown&show_icons=true)
-
+## Codewars:
+![codewars](https://www.codewars.com/users/CytoClown/badges/small)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cytoclown&show_icons=true) -->
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=CytoClown)
