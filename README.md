@@ -1,4 +1,4 @@
-![Header](https://github.com/CytoClown/CytoClown/blob/main/assets/Header.png)
+<!-- ![Header](https://github.com/CytoClown/CytoClown/blob/main/assets/Header.png) -->
 
 ## My CV
 - [Link to my CV](https://drive.google.com/file/d/1rOY-3wXnP2ZHiOv0MiNJrFxtNQtmnnnY/view?usp=sharing)
@@ -34,14 +34,13 @@
 - [SQL Queries](https://github.com/CytoClown/SQLquery)
 - [Postman Collections](https://github.com/CytoClown/PostC)
 - [Android testing](https://github.com/CytoClown/Mobile)
-- [VirtualBox Ubuntu server, TeamCity](https://github.com/CytoClown/UbServTeam/tree/main)
+<!-- - [VirtualBox Ubuntu server, TeamCity](https://github.com/CytoClown/UbServTeam/tree/main) -->
+- [Saucedemo testing(Python)](https://github.com/CytoClown/Saucedemo)
+- [demoqa.com testing(Python)](https://github.com/CytoClown/QA_auto)
 
 <!-- ## Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=31648c%20)](https://t.me//knyaz335)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=0b66c2%20)](https://www.linkedin.com/in/knyaz335/) -->
-
-## Codewars:
-![codewars](https://www.codewars.com/users/CytoClown/badges/large)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cytoclown&show_icons=true)
 
