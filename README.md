@@ -35,7 +35,7 @@
 - [Postman Collections](https://github.com/CytoClown/PostC)
 - [Android testing](https://github.com/CytoClown/Mobile)
 <!-- - [VirtualBox Ubuntu server, TeamCity](https://github.com/CytoClown/UbServTeam/tree/main) -->
-- [Saucedemo testing(Python)](https://github.com/CytoClown/Saucedemo)
+<!-- - [Saucedemo testing(Python)](https://github.com/CytoClown/Saucedemo) -->
 - [demoqa.com testing(Python)](https://github.com/CytoClown/QA_auto)
 
 <!-- ## Contacts
