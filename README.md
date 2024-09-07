@@ -36,6 +36,7 @@
 - [Android testing](https://github.com/CytoClown/Mobile)
 <!-- - [VirtualBox Ubuntu server, TeamCity](https://github.com/CytoClown/UbServTeam/tree/main) -->
 <!-- - [Saucedemo testing(Python)](https://github.com/CytoClown/Saucedemo) -->
+- [Test Data Generator](https://github.com/CytoClown/TestDataGen)
 - [demoqa.com testing(Python)](https://github.com/CytoClown/QA_auto)
 
 <!-- ## Contacts
